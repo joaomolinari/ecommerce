@@ -1,2 +1,2 @@
 # ecommerce
-loja de tenis
+loja de tenis online
